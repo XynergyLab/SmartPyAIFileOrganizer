@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "Flask==2.2.2",
-        "Pillow==9.3.0",
+        "Pillow==10.3.0",
         "pymediainfo==5.0.3",
     ],
     extras_require={
