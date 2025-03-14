@@ -1,7 +1,0 @@
-setup.py
-organizer.egg-info/PKG-INFO
-organizer.egg-info/SOURCES.txt
-organizer.egg-info/dependency_links.txt
-organizer.egg-info/entry_points.txt
-organizer.egg-info/requires.txt
-organizer.egg-info/top_level.txt
